@@ -1,0 +1,12 @@
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\Store.Data.dll.config
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\Store.Data.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\Store.Data.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\EntityFramework.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\Store.Model.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\Store.Model.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\EntityFramework.xml
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\obj\Debug\Store.Data.csprojResolveAssemblyReference.cache
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\obj\Debug\Store.Data.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Data\obj\Debug\Store.Data.pdb

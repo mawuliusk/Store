@@ -1,0 +1,14 @@
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Service.dll.config
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Service.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Service.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\EntityFramework.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Data.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Model.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Data.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\Store.Model.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\EntityFramework.xml
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\obj\Debug\Store.Service.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Service\obj\Debug\Store.Service.pdb

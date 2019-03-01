@@ -1,0 +1,5 @@
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Model\bin\Debug\Store.Model.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Model\bin\Debug\Store.Model.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Model\obj\Debug\Store.Model.dll
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Model\obj\Debug\Store.Model.pdb
+C:\_DATA\_WORK\_MY_LAB\Store\Store.Model\obj\Debug\Store.Model.csprojResolveAssemblyReference.cache
